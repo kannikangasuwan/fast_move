@@ -10,7 +10,7 @@ public class ToyData {
 
     public static Bike[] getBikes() {
         Bike[] bikes = new Bike[3];
-        // your code
+        Bikes[0] = new Bike("b100");
 
         return bikes;
     }
